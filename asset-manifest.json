@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/NMaidana7/ReactProyecto2/static/css/main.6d53b9a3.css",
+    "main.js": "/NMaidana7/ReactProyecto2/static/js/main.f373e5f5.js",
+    "static/js/787.989a975f.chunk.js": "/NMaidana7/ReactProyecto2/static/js/787.989a975f.chunk.js",
+    "static/media/doguito404.svg": "/NMaidana7/ReactProyecto2/static/media/doguito404.1a2ea648e55f624012d83c6ff066006f.svg",
+    "static/media/doguito.svg": "/NMaidana7/ReactProyecto2/static/media/doguito.3541f9d895bc412844a5035a020012f9.svg",
+    "index.html": "/NMaidana7/ReactProyecto2/index.html",
+    "static/media/menu.svg": "/NMaidana7/ReactProyecto2/static/media/menu.b8919896762e88a5e573.svg",
+    "main.6d53b9a3.css.map": "/NMaidana7/ReactProyecto2/static/css/main.6d53b9a3.css.map",
+    "main.f373e5f5.js.map": "/NMaidana7/ReactProyecto2/static/js/main.f373e5f5.js.map",
+    "787.989a975f.chunk.js.map": "/NMaidana7/ReactProyecto2/static/js/787.989a975f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d53b9a3.css",
+    "static/js/main.f373e5f5.js"
+  ]
+}
